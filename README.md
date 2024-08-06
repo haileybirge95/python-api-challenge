@@ -1,1 +1,1 @@
-# This project explores weather patterns across Earth's hemispheres and the correlations between related variables.
+# This project explores weather patterns across Earth's hemispheres and the correlations between related variables using linear regression modeling. It also uses graphs to provide information on humidity levels in various cities and hotels that fall within specific weather parameters and range.
